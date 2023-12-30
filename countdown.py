@@ -15,3 +15,5 @@ def countdown(t):
     winsound.Beep(900, 1000)
  
 countdown(5)
+
+# execute it in jupiter notebook
