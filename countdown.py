@@ -1,4 +1,4 @@
-from time import sleep //ㅇ
+from time import sleep #import time in sleep
 import winsound
 
 def countdown(t):
