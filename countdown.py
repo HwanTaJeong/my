@@ -11,7 +11,7 @@ def countdown(t):
         sleep(0.25) #give some delay
         t -= 1 #counting time
 
-    print('00:00')
-    winsound.Beep(900, 1000)
+    print('00:00') #end of timer
+    winsound.Beep(900, 1000) #play sound
  
-countdown(5)
+countdown(5) #main
