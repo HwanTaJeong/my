@@ -1,5 +1,5 @@
 from time import sleep #import time in sleep
-import winsound
+import winsound #import winsound
 
 def countdown(t):
    
